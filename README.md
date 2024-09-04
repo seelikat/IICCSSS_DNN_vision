@@ -1,4 +1,4 @@
-# ICCSSS DNN-vision RSA tutorial
+# IICCSSS DNN-vision RSA tutorial
 
 Resources for the 2024 International Interdisciplinary Computational Cognitive Science Summer School deep learning & vision RSA tutorial session
 
