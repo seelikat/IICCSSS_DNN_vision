@@ -1,6 +1,6 @@
-# IMPRS NeuroCom Summer School DNN-vision RSA
+# ICCSSS DNN-vision RSA tutorial
 
-Resources for the 2022 IMPRS NeuroCom Summer School Deep Learning in Vision Session. 
+Resources for the 2024 International Interdisciplinary Computational Cognitive Science Summer School deep learning & vision RSA tutorial session
 
 Compare DNN activity with visual system activity via RSA.
 
