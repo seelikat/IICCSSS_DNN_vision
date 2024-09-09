@@ -4,4 +4,5 @@ Resources for the 2024 International Interdisciplinary Computational Cognitive S
 
 Compare DNN activity with visual system activity via RSA.
 
-colab link:  https://colab.research.google.com/drive/1cE7MKcc3lQkxcvzfKjU6n5PTdvMeL3p5?usp=sharing
+colab link:  [https://colab.research.google.com/drive/1cE7MKcc3lQkxcvzfKjU6n5PTdvMeL3p5?usp=sharing
+](https://colab.research.google.com/drive/14w5ziqlP-tVor0AsH4D-f5BxyfMNJMV5?usp=sharing)
